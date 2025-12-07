@@ -135,9 +135,3 @@ We compute:
 | **ResNet18**     | High     | High      | Stable & reliable |
 | **MobileNetV3**  | Very Good| Very Good | Fastest + lightweight |
 | **SimpleVGG**    | Good     | Good      | Strong baseline |
-
----
-
-## 🖼 Example Visualizations
-
-### ✔ ROC Curves  
